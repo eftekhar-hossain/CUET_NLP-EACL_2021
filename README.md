@@ -1,4 +1,4 @@
-<img title="" src="Figures/offensive_logo.jpeg" alt="" height="600">
+<img title="" src="Figures/offensive.PNG" alt="">
 
 ## Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media
 
