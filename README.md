@@ -13,9 +13,9 @@
 **Venue:** Shared task description paper of CONSTRAINT workshop collocated with AAAI-2021 . [CONSTRAINT@AAAI 2021](https://constraint-shared-task-2021.github.io/)
 
 **Paper Link:** [https://arxiv.org/abs/2101.03291](https://arxiv.org/abs/2101.03291)
-
-# Shared Task#1
-<img title="" src="Figures/hope_logo.jpg" alt="">
+#
+# Shared Task#2
+<img title="" src="Figures/hope.PNG" alt="">
 
 ## Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media
 
