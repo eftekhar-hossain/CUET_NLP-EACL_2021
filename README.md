@@ -1,3 +1,7 @@
+<img title="" src="Figures/EACL.PNG" alt="">
+
+`Code and dataset of the tasks are released here. In order to use the dataset interested ones have to follow policy of workshop organizers`
+
 <img title="" src="Figures/offensive.PNG" alt="">
 
 ## Combating Hostility: Covid-19 Fake News and Hostile Post Detection in Social Media
@@ -8,4 +12,3 @@
 
 **Paper Link:** [https://arxiv.org/abs/2101.03291](https://arxiv.org/abs/2101.03291)
 
-`Code and dataset of the tasks are released here. In order to use the dataset interested ones have to follow policy of workshop organizers`
