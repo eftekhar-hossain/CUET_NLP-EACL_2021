@@ -26,19 +26,22 @@ XLM-R outperforms other techniques in Tamil and Malayalam languages while m-BERT
 
 The number of instances used to train, validate and test the models summarized in table 1.
 
+
 <img title="" src="Figures/off_data.PNG" alt="">
 
 
 ## System Overview
 Figure 1 presents the schematic diagram of our system, which has three major phases: preprocessing, feature extraction and classification.
-<img title="" src="Figures/off_block.PNG" alt="">
+<img title="" src="Figures/off_block.png" alt="">
 
 ## Results 
 Table 2 presents the evaluation results of the tasks on the test set.
+
 <img title="" src="Figures/off_result.PNG" alt="">
 
 
 Figure 2 presents the confusion matrices of the best model for each language.
+
 <img title="" src="Figures/off_confusion.PNG" alt="">
 
 
