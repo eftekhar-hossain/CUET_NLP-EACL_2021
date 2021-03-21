@@ -32,7 +32,9 @@ The number of instances used to train, validate and test the models summarized i
 
 ## System Overview
 Figure 1 presents the schematic diagram of our system, which has three major phases: preprocessing, feature extraction and classification.
+<p align = "center">
 <img title="" src="Figures/off_block.png" alt="">
+</p>
 
 ## Results 
 Table 2 presents the evaluation results of the tasks on the test set.
