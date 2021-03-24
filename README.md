@@ -74,24 +74,27 @@ In recent years, several systems have been developed to regulate the spread of n
 The number of instances used to train, validate and test the models summarized in table 1.
 
 
-<img title="" src="Figures/off_data.PNG" alt="">
+<img title="" src="Figures/hope_data.PNG" alt="">
 
+Table 2 represents the training set statistics.
+
+<img title="" src="Figures/hope_stat.PNG" alt="">
 
 ## System Overview
 Figure 1 presents the schematic diagram of our system, which has three major phases: preprocessing, feature extraction and classification.
 <p align = "center">
-<img title="" src="Figures/off_block.png" alt="">
+<img title="" src="Figures/hope_block.png" alt="">
 </p>
 
 ## Results 
 Table 2 presents the evaluation results of the tasks on the test set.
 
-<img title="" src="Figures/off_result.PNG" alt="">
+<img title="" src="Figures/hope_result.PNG" alt="">
 
 
-Figure 2 presents the confusion matrices of the best model for each language.
+Figure 2 presents the confusion matrices of the best models.
 
-<img title="" src="Figures/off_confusion.PNG" alt="">
+<img title="" src="Figures/hope_confusion.PNG" alt="">
 
 
 ## Conclusion
