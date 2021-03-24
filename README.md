@@ -50,6 +50,7 @@ Figure 2 presents the confusion matrices of the best model for each language.
 ## Conclusion
 In this work, we have described and analyzed the system’s performance implemented as a participation in the offensive language identification shared task at EACL-2021. Initially, SVM, LR, LSTM, LSTM+Attention models have employed with tf-idf and word embedding features. Results indicate that ML ensemble achieved higher accuracy than DL methods. However, the outcomes are not promising for the available datasets. Code-mixing of multilingual texts might be a reason behind this. We applied transformer-based models to overcome this situation, which provides an astonishing rise in accuracy than ML and DL-based methods. Weighted f-1 score increased from 0.73 to 0.76, 0.88 to 0.93 and 0.48 to 0.71 for Tamil, Malayalam and Kannada language respectively. In future, the idea of ensemble technique could be adopted on transformer-based models to investigate the system’s overall performance.In this work, we have described and analyzed the system’s performance implemented as a participation in the offensive language identification shared task at EACL-2021. Initially, SVM, LR, LSTM, LSTM+Attention models have employed with tf-idf and word embedding features. Results indicate that ML ensemble achieved higher accuracy than DL methods. However, the outcomes are not promising for the available datasets. Code-mixing of multilingual texts might be a reason behind this. We applied transformer-based models to overcome this situation, which provides an astonishing rise in accuracy than ML and DL-based methods. Weighted f-1 score increased from 0.73 to 0.76, 0.88 to 0.93 and 0.48 to 0.71 for Tamil, Malayalam and Kannada language respectively. In future, the idea of ensemble technique could be adopted on transformer-based models to investigate the system’s overall performance.
 #
+
 # Shared Task#2
 <img title="" src="Figures/hope.PNG" alt="">
 
@@ -87,7 +88,7 @@ Figure 1 presents the schematic diagram of our system, which has three major pha
 </p>
 
 ## Results 
-Table 2 presents the evaluation results of the tasks on the test set.
+Table 3 presents the evaluation results of the tasks on the test set.
 
 <img title="" src="Figures/hope_result.PNG" alt="">
 
