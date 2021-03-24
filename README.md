@@ -84,7 +84,7 @@ Table 2 represents the training set statistics.
 ## System Overview
 Figure 1 presents the schematic diagram of our system, which has three major phases: preprocessing, feature extraction and classification.
 <p align = "center">
-<img title="" src="Figures/hope_block.png" alt="">
+<img title="" src="Figures/hope_block.PNG" alt="">
 </p>
 
 ## Results 
