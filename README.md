@@ -8,7 +8,7 @@
 
 ## Offensive Language Detection from Multilingual Code-Mixed Text using Transformers
 
-**Author:** Omar , Eftekhar Hossain, and Mohammed Moshiul Hoque
+**Author:** Omar Sharif , Eftekhar Hossain, and Mohammed Moshiul Hoque
 
 **Venue:** Shared task description paper of DravidianLangTech workshop collocated with EACL-2021. [DravidianLangTech@EACL2021](https://dravidianlangtech.github.io/2021/index.html)
 
